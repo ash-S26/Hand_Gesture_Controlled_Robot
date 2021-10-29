@@ -21,7 +21,7 @@ ____________
 
  # ALORITHM FOR DETECTION OF HAND_GESTURE
    1) Seperate out the skin color from the input frame using HSV or other color format with upper and lower bound for skin color as per range. Removal of noise from image via Morphological Transformation, and applying filters to smooothen the image.Finding the contour of the mask and finding its convex-hull.
-   2) Using the various properties for seperation various Hand_Gestures(In this project we will use Indian-sign-language as Hand_Gesture- 1,2,3..) like- convex-hull defects and area ratio of contour with hull of respective gesture.
+   2) Using the various properties for seperation various Hand_Gestures(In this project we will use Indian-sign-language as Hand_Gesture- 1,2,3..) like- convex-hull defects and area ratio of contour to hull of respective gesture (solidity,extend and aspect ratio).
 
  # ALGORITHM FOR ROBOT
    For this project we used ROS noetic, turtlesim and turtlebot3.
