@@ -41,17 +41,17 @@ ________________________
   
 # RESULTS 
 __________
-  HAND_GESTURE_DETECTION 🦖 :-
+  HAND_GESTURE_DETECTION :-
   _________________________________
   
   ![](https://github.com/ash-S26/Hand_Gesture_Controlled_Robot/blob/main/Results/hand_detection.gif)
   
-  CONTROLLING ROBOT IN EMPTY WORLD WITH HAND 🦖 :-
+  CONTROLLING ROBOT IN EMPTY WORLD WITH HAND :-
   ________________________________________
   
   ![](https://github.com/ash-S26/Hand_Gesture_Controlled_Robot/blob/main/Results/hand_gesture_control_robot_empty_world.gif)
   
-  CONTROLLING ROBOT IN WAFFLE WORLD WITH HAND 🦖 :-
+  CONTROLLING ROBOT IN WAFFLE WORLD WITH HAND :-
   ________________________________________
   
   ![](https://github.com/ash-S26/Hand_Gesture_Controlled_Robot/blob/main/Results/hand_gesture_control_robot_waffle_world.gif)
