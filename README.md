@@ -50,9 +50,14 @@ __________
   HAND_GESTURE_DETECTION 🦖 :-
   _________________________________
   
-  ![](https://github.com/ash-S26/HAND-GESTURE-CONTROLLED-ROBOT/blob/main/RESULTS/HAND_GESTURE_DETECTION.gif)
+  ![](https://github.com/ash-S26/Hand_Gesture_Controlled_Robot/blob/main/Results/hand_detection.gif)
   
-  CONTROLLING ROBOT WITH HAND 🦖 :-
+  CONTROLLING ROBOT IN EMPTY WORLD WITH HAND 🦖 :-
+  ________________________________________
+  
+  ![](https://github.com/ash-S26/HAND-GESTURE-CONTROLLED-ROBOT/blob/main/RESULTS/HAND_GESTURE_CONTROLLED_ROBOT.gif)
+  
+  CONTROLLING ROBOT IN WAFFLE WORLD WITH HAND 🦖 :-
   ________________________________________
   
   ![](https://github.com/ash-S26/HAND-GESTURE-CONTROLLED-ROBOT/blob/main/RESULTS/HAND_GESTURE_CONTROLLED_ROBOT.gif)
