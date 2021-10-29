@@ -55,7 +55,7 @@ __________
   CONTROLLING ROBOT IN EMPTY WORLD WITH HAND 🦖 :-
   ________________________________________
   
-  ![](https://github.com/ash-S26/HAND-GESTURE-CONTROLLED-ROBOT/blob/main/RESULTS/HAND_GESTURE_CONTROLLED_ROBOT.gif)
+  ![](https://github.com/ash-S26/Hand_Gesture_Controlled_Robot/blob/main/Results/hand_gesture_control_robot_empty_world.gif)
   
   CONTROLLING ROBOT IN WAFFLE WORLD WITH HAND 🦖 :-
   ________________________________________
